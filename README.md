@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pathdresser
+- 👋 Hi, I’m @Halal
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python (beginner)
 - 💞️ I’m looking to collaborate on working with people
